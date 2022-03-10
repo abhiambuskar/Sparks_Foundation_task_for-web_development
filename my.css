@@ -1,0 +1,90 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(142, 158, 98);
+}
+
+.bg-light{
+    background-color: #f2e9e4!important;
+}
+
+#image{
+    border-radius: 3px;
+    margin-left: 5px;
+}
+.navabr-brand{
+    font-family: fantasy;
+    font-size: 1.5rem;
+    color: #5f6368!important;
+}
+
+.nav-link{
+    color: #5f6368!important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-link:hover{
+    background-color: rgb(156, 173, 59);
+    border-radius: 6px;
+    
+}
+
+.my-info{
+    padding: 2rem 5rem;
+    text-align: center;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(78, 153, 233)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    transition: all 0.3s;
+    border-radius: 5px;
+}
+
+.btn-info:hover{
+    background-color: rgb(67,83,230)!important;
+}
+
+.modal_fade{
+    text-align: center;
+}
+
+.btn-secondary:hover{
+    background-color: rgb(177, 92, 92);
+}
+
+.btn-success:hover{
+    background-color: rgb(78, 148, 78);
+}
+
+.modal-title{
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+
+    width: 90%;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+td{
+    text-align: center;
+}
+
+.table-light{
+    background-color: rgb(88, 151, 180);
+}
+
+.modal-footer{
+    
+     padding: 8px;
+    
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom:10px ;
+}
